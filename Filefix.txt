@@ -1,4 +1,1 @@
-This is fix file for the bug 617441
-fix bug..
-Test Deepa...
-VVVV111
+This is fix file for the bug 617685
